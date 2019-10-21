@@ -1,4 +1,4 @@
-numpy as np
+import numpy as np
 
 
 def affine_forward(x, w, b):
